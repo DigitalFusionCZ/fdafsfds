@@ -1,0 +1,111 @@
+{
+  "generated_at": "2025-08-05T19:35:41.433Z",
+  "total_images": 15,
+  "images": [
+    {
+      "original_url": "http://www.akkasparek.com/wp-content/uploads/2018/04/logo04.png",
+      "file_path": "public/images/logo-main.png",
+      "file_name": "logo-main.png",
+      "description": "The current website logo for Advokátní kancelář Kašpárek. Context: Used as the primary branding element across the website. The image itself is a placeholder (black square), suggesting the actual logo might not be rendering or is missing from this analysis. Assuming a functional redesign would include a proper, visually appealing logo.",
+      "size_bytes": 15663
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/DSC_0080_02.jpg",
+      "file_path": "public/images/team-zbynek-kasparek-office.jpg",
+      "file_name": "team-zbynek-kasparek-office.jpg",
+      "description": "A male lawyer, JUDr. Zbyněk Kašpárek, in a suit, sitting at a desk with a laptop, looking towards the viewer. A bookcase filled with books is visible in the background. Context: Likely found on an 'About Us' or 'Team' page. Shows one of the key members of the law firm in a professional setting. Good lighting and clear composition. Represents the professional environment of the firm.",
+      "size_bytes": 768190
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/DSC_0180webBW02.jpg",
+      "file_path": "public/images/team-zbynek-kasparek-portrait.jpg",
+      "file_name": "team-zbynek-kasparek-portrait.jpg",
+      "description": "A black and white portrait of JUDr. Zbyněk Kašpárek, LL.M. in a suit, with his arms crossed, looking confidently at the viewer. Context: Found on the 'About Us' or 'Team' section. A professional headshot to represent one of the legal professionals. Good quality, clear, and focused on the individual.",
+      "size_bytes": 517623
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/zdenekk09.jpg",
+      "file_path": "public/images/team-zdenek-kasparek-portrait.jpg",
+      "file_name": "team-zdenek-kasparek-portrait.jpg",
+      "description": "A black and white portrait of JUDr. Zdeněk Kašpárek, CSc. in a suit, with his arms crossed, looking directly at the viewer. Context: Found on the 'About Us' or 'Team' section. A professional headshot to represent one of the legal professionals. Good quality, clear, and focused on the individual.",
+      "size_bytes": 195609
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/charuza01.jpg",
+      "file_path": "public/images/team-jan-charuza-portrait.jpg",
+      "file_name": "team-jan-charuza-portrait.jpg",
+      "description": "A black and white portrait of JUDr. Jan Charuza in a suit, with his arms crossed, looking directly at the viewer. Context: Found on the 'About Us' or 'Team' section. A professional headshot to represent one of the legal professionals. Good quality, clear, and focused on the individual.",
+      "size_bytes": 131644
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/pavlam01-225x300.jpg",
+      "file_path": "public/images/team-pavla-nohejlova-portrait-small.jpg",
+      "file_name": "team-pavla-nohejlova-portrait-small.jpg",
+      "description": "A small-dimensioned black and white portrait of Pavla Nohejlová, a female professional in a suit, looking at the camera. Context: Found on 'About Us' or 'Team' page. This is likely a thumbnail version. The full-size version (Image ID 16) should be used for better quality.",
+      "size_bytes": 9610
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/obcanske-pravo_01.jpg",
+      "file_path": "public/images/service-civil-law-book.jpg",
+      "file_name": "service-civil-law-book.jpg",
+      "description": "A black legal book titled 'Kremář Právo občanské I-IV' on a dark, textured surface, with a gold ring placed on top. Context: Likely used to represent civil law services. The visual elements (book, ring) symbolize law and justice. The lighting is good, emphasizing the book.",
+      "size_bytes": 659354
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/finance-m-1-1.jpg",
+      "file_path": "public/images/service-consultation-finance.jpg",
+      "file_name": "service-consultation-finance.jpg",
+      "description": "Three individuals, two clients and one legal professional, reviewing documents and using a calculator at a table in a bright office environment. Context: Used to represent financial or general consultation services. Shows client interaction and advisory roles. Good lighting and composition, conveying professionalism.",
+      "size_bytes": 224994
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/trestni_pravo_01.jpg",
+      "file_path": "public/images/service-criminal-law-book.jpg",
+      "file_name": "service-criminal-law-book.jpg",
+      "description": "A black legal book titled 'SOLNAŘ TRESTNÍ PRÁVO A ŘÍZENÍ' resting on stack of folders on a light wooden desk. Context: Likely used to represent criminal law services. The visual elements symbolize legal practice. Good clarity and focus.",
+      "size_bytes": 868248
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/obchodni_pravo_01.jpg",
+      "file_path": "public/images/service-commercial-law-desk.jpg",
+      "file_name": "service-commercial-law-desk.jpg",
+      "description": "An open planner with a pen and two business cards, alongside a traditional inkwell and pen holder, on a light wooden desk. Context: Likely used to represent commercial law services or general business aspects of the firm. The business cards suggest a professional and organized approach. Clear and well-lit.",
+      "size_bytes": 668528
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/man-working-with-modern-devices-m-1-1.jpg",
+      "file_path": "public/images/service-digital-analysis.jpg",
+      "file_name": "service-digital-analysis.jpg",
+      "description": "A person's hands using a smartphone and pointing at a tablet displaying graphs and charts, resting on papers with data. A pen lies next to the tablet and a watch is on the person's wrist. Context: Used to represent modern legal practices, data analysis, or financial legal services. Conveys efficiency and technological integration. Good quality and clear focus on the devices.",
+      "size_bytes": 422313
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/spravni-pravo_02.jpg",
+      "file_path": "public/images/service-administrative-law-passport.jpg",
+      "file_name": "service-administrative-law-passport.jpg",
+      "description": "A Czech Republic passport, featuring 'EVROPSKÁ UNIE ČESKÁ REPUBLIKA' (European Union Czech Republic) and 'CESTOVNÍ PAS' (Passport) on its cover, stands on a grayish carpet with a blurred dark object in the background. Context: Likely used to represent administrative law, particularly aspects related to citizenship, travel, or international law. Clear and well-focused.",
+      "size_bytes": 858930
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2016/02/corporate-buildings-white-1-1.jpg",
+      "file_path": "public/images/background-corporate-buildings.jpg",
+      "file_name": "background-corporate-buildings.jpg",
+      "description": "A low-angle shot of three modern corporate glass buildings against a bright, slightly hazy sky, given a faded or desaturated appearance. Context: Used as a background or gallery image, possibly symbolizing corporate law, business, or the firm's metropolitan presence. Good composition with leading lines, though the faded style is questionable and should be revisited during redesign.",
+      "size_bytes": 215242
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/11/20170612101311_hammer-802301_960_720.jpg",
+      "file_path": "public/images/legal-justice-symbols.jpg",
+      "file_name": "legal-justice-symbols.jpg",
+      "description": "A wooden gavel and sound block in the foreground, with a brass scale of justice behind them, all placed on a dark open case, against a plain background. Context: Used as a general symbol of law, justice, or legal services. Clearly composed and represents the legal profession. Can be used in headers or service sections.",
+      "size_bytes": 154881
+    },
+    {
+      "original_url": "https://www.akkasparek.com/wp-content/uploads/2018/04/pavlam01.jpg",
+      "file_path": "public/images/team-pavla-nohejlova-portrait.jpg",
+      "file_name": "team-pavla-nohejlova-portrait.jpg",
+      "description": "A black and white portrait of Pavla Nohejlová, a female professional in a suit, looking at the camera, with her hands adjusting her jacket. Context: Found on the 'About Us' or 'Team' page. A professional headshot to represent a team member. Good quality, clear, and focused on the individual.",
+      "size_bytes": 276574
+    }
+  ]
+}
